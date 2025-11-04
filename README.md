@@ -1,1 +1,2 @@
-# Team Members- Himanshu Goswami, Chinmayee Kale, Atman Italiya and Utkarsh Vijayvergia.
+# Team Members:
+Himanshu Goswami, Chinmayee Kale, Atman Italiya and Utkarsh Vijayvergia.
